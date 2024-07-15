@@ -1,4 +1,4 @@
-* {
+body {
     background-color: bisque;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -14,4 +14,48 @@ img {
 
     width: 400px;
     height: auto;
+    padding: 10px;
+    background-color: white;
+    margin: 10px;
+}
+
+
+.head {
+
+    padding: 10px;
+    
+
+
+}
+
+.Description {
+
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.Recipes {
+
+    padding: 10px;
+    margin-top: 15px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.ingredients {
+
+    padding: 10px;
+    margin-top: 15px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.steps {
+
+    padding: 10px;
+    margin-top: 15px;
+    background-color: rgb(255, 255, 255);
+    
 }
